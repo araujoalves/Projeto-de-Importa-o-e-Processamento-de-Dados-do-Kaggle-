@@ -8,7 +8,7 @@ data = pd.read_csv('netflix_data/netflix_titles.csv')  # Certifique-se de que o 
 DB_HOST = 'localhost'
 DB_PORT = 3306
 DB_USER = 'root'
-DB_PASSWORD = '258201'
+DB_PASSWORD = '01020301'
 DB_NAME = 'netflix_titles'
 
 # String de conexão
