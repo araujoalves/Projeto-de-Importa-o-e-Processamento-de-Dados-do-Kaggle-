@@ -3,8 +3,8 @@ import kaggle
 from kaggle.api.kaggle_api_extended import KaggleApi
 
 # Definindo as credenciais da API do Kaggle através de variáveis de ambiente
-os.environ['KAGGLE_USERNAME'] = 'daniaalves'
-os.environ['KAGGLE_KEY'] = '400f487e997fa869b28dc1fae52a746e'
+os.environ['KAGGLE_USERNAME'] = 'daniaal5555'
+os.environ['KAGGLE_KEY'] = '400f487e444997fa869b28dc1fae52a746e'
 
 # Autenticação no Kaggle
 api = KaggleApi()
